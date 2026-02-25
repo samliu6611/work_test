@@ -33,7 +33,7 @@ GM 管理員後台 (GMUI)
 
 2. 卡池排期 (BannerManagerView)
 <br>時間控制：管理員可針對特定卡池設定 start_time 與 end_time。
-<br>目前"超絕武器神祭"是關閉的想吃自己打 可以從設定裡面開啟。
+<br>目前"超絕武器神祭"是關閉的~~想吃自己打~~可以從設定裡面開啟。
 <br>即時生效：修改後，玩家端的卡池介面會立即同步顯示最新的開放時間。
 
 3. 紀錄追蹤 (GMPlayerRecordQueryView)
